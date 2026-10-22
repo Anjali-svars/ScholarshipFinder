@@ -1,0 +1,6 @@
+{
+  "name": "Scholarship Finder",
+  "description": "Scholarship Recommendation System for Students using Python rule-based eligibility filtering and multi-criteria weighted ranking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
